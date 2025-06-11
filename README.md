@@ -12,4 +12,4 @@ And programming forums for: JavaScript, Python, C#, C++
 
 🎉 Whether you're a beginner or seasoned coder, everyone’s welcome!
 
-[![Join Us on Discord](https://img.shields.io/discord/1281855501428330538?label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/VW7rZZeuWs)
+[![Join Us on Discord](https://img.shields.io/discord/1281855501428330538?label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/Vgekspfe)
